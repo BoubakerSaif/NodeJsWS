@@ -1,0 +1,6 @@
+{
+  "name": "Saif",
+  "age": 20,
+  "skills": ["html", "css"],
+  "available": true
+}
